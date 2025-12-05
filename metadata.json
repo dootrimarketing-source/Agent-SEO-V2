@@ -1,0 +1,5 @@
+{
+  "name": "GEO-Tableau de Bord Maître GMB",
+  "description": "Un tableau de bord complet pour gérer les profils d'entreprise Google, avec génération de contenu par IA, édition d'images avec Gemini 2.5 Flash Image (Nano Banana), et planification stratégique intelligente avec Gemini 3 Pro en mode pensée.",
+  "requestFramePermissions": []
+}
